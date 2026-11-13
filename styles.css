@@ -82,8 +82,8 @@ p { margin: 0; }
 }
 
 .hero-logo {
-  width: 242px;
-  height: 242px;
+  width: 90px;
+  height: 90px;
   margin-bottom: 28px;
   animation: floatLogo 6s ease-in-out infinite;
   filter: drop-shadow(0 10px 25px rgba(0, 163, 255, 0.3));
